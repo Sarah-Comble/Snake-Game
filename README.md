@@ -10,12 +10,11 @@ Un petit jeu Snake en Python, simple avec la gestion des entrées clavier, la lo
 ---
 
 ## 🎯 Fonctionnalités
-- Contrôles au clavier (flèches / ZQSD)
+- Contrôles au clavier (flèches)
 - Nourriture aléatoire et score affiché
 - Croissance du serpent à chaque nourriture mangée
 - Détection de collision (mur / corps)
 - Vitesse évolutive ou niveaux de difficulté
-- Options de configuration (taille de la grille, vitesse, couleurs)
-- Score sauvegardé localement (optionnel)
+- Score sauvegardé localement
 
 ---
